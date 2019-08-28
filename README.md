@@ -7,3 +7,8 @@ To add to the list, join GitHub and learn enough of ```git``` so that you can do
 
 **Note that this list is structured in the following manner: We divide questions in *beginner*, *intermediate*, and *advanced* categories. Within those categories the resources are grouped under questions.**
 If you are unsure which category to do pull-request your contribution to, chose whichever and make a note of it. No problem. Be sure to formulate your contribution as a question and answer and not a 'Jeopardy question' but something that makes sense.
+
+
+### Linkdump for later processing...
+https://software-carpentry.org
+https://joss.theoj.org
